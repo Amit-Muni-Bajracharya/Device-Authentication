@@ -1,0 +1,10 @@
+name: device_auth_dart
+description: Validates and builds auth payloads for Android and iOS clients.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^4.0.0
